@@ -7,3 +7,5 @@ CRUD Básico Realizado en PHP, con el patrón de diseño MVC
 <li> luego abre tu navegador y dirígete a tu server ej: http://localhost/crudphp/</li>
 <li> espero a ver sido de ayuda</li>
   <ul>
+   
+![alt text](https://github.com/ruder12/CRUD_PHP/tree/master/Assets/img/menu.png)
