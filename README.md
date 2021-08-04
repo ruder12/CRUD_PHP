@@ -1,2 +1,2 @@
 # CRUD_PHP
-CRUD Básico Realizado en PHP, con el patrón de diseño MVC
+CRUD Básico Realizado en PHP,Boopstrap,js,MySQL con el patrón de diseño MVC
